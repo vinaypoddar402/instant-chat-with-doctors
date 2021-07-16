@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869745993679",
+    "project_id": "instant-chat-with-doctors",
+    "storage_bucket": "instant-chat-with-doctors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869745993679:android:cf49e7c7471029ff5314ba",
+        "android_client_info": {
+          "package_name": "com.icwd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869745993679-5c6t2m1pg8ehs8hmbuk0bvaab6t59igi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTjetI0gl0GrRA5E-ytnyvIy72rOdwVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869745993679-5c6t2m1pg8ehs8hmbuk0bvaab6t59igi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
